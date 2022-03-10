@@ -1,3 +1,3 @@
-# Quantum_Evolution_Algorithm
+# Quantum_Evolutionary_Algorithm
 
-Optimize quantum circuit's structure using Evolution Algorithms
+Optimize quantum circuit's structure using Evolutionary Algorithms
